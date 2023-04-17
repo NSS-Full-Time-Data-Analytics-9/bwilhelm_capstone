@@ -30,7 +30,7 @@ When exploring these beaches, I want to find out which areas offer the safest tr
 4. Does weather data over the last 10 years offer enough data to highlight ideal time to travel for each location?
 
 5. Stretch Goals:
-- What is a tpyical average price that visitors can expect to spend per night in housing at each location?
+- What is a typical average price that visitors can expect to spend per night in housing at each location?
 - Does certain locations offer more ideal type of rental property than other?  Factors to look at will be: number of beds, number of bathrooms, petfriendly, type of property (house, condo, resort, ect.).
 
 ## Problems and Hurdles
