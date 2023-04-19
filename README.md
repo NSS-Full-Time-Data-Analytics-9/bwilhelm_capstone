@@ -50,7 +50,10 @@ To answer the questions above, I used the following sources to collect the datas
 - https://www.city-data.com/crime/
 2. Traffic Data - pulled from National Highway Traffic Safety Association website:
 - https://cdan.nhtsa.gov/
-3. Weather data offered through Visual Crossing (executed through Weather Query Builder)
+3. Traffic Stata - National Traffic Fatality Rates
+- https://www.statista.com/statistics/191660/fatality-rate-per-100000-licensed-drivers-in-the-us-since-1988/
+4. Weather data offered through Visual Crossing (executed through Weather Query Builder)
 - https://www.visualcrossing.com/weather/weather-data-services
-4. Rental Property Listings were web-scraped through Vrbo website:
+5. Rental Property Listings were web-scraped through Vrbo website:
 - https://www.vrbo.com/
+
