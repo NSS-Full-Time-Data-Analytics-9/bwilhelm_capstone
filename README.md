@@ -1,13 +1,16 @@
 # Beach Vacation
 
+## Tableau Dashboard
+
+
 ## Table of Contents
-- Tableau Dashboard
-- Motivation
-- Questions
-- Problems and Hurdles
-- Technologies Used
-- Sources
-- Conclusion
+- [Tableau Dashboard](#tableau-dashboard)
+- [Motivation](#motivation)
+- [Questions](#questions)
+- [Problems and Hurdles](#problems-and-hurdles)
+- [Technologies Used](#technologies-used)
+- [Sources](#data-sources)
+- [Conclusion](#conclusion)
 
 ## Motivation
 Growing up my family loved to travel and take trips together.  As my family has continued to grow, I have had the please and joy of experiencing the joys of family vacations as a parent.  As my wife and I plan these trips, much like when I was a child growing up, we are always drawn to the beach and all that a beach vacation has a to offer.  Whether it be the feeling of sand between the toes, the cuisine, or the beuatiful weather that traveling south has to offer, there is no feeling quite like that of traveling to the beach.  I  wanted to take this opportunity to research beaches that are within a driveable distance (~7-9 hours) from Nashville, TN.  When looking at at options of beaches to eplore and examine, I narrowed this study to the following beaches:
@@ -36,7 +39,7 @@ When exploring these beaches, I want to find out which areas offer the safest tr
 ## Problems and Hurdles
 When analyzing these beaches, the beaches analyzed consisted of 7 different beaches/locations across 5 different states.  Making sure that the data collection process consisted of thorough collection and cleansing processes.  This would ensure that the data was normalized in a way that the format and structure of the data was consistent throughout each location.  This would ensure that the analaysis was done properly, with data that was structured and aggregated the same throughout all locations.  To aid in this process, sources that could provide data for all the different locations were used throughout the data collection process.  
 
-Web-scraping the vrbo website for rental listings was another hurdle that took some time to gather data for each location.  This data consists of only data that was listed available on May 6, 2023 (pulled on April 15, 2023).  Any listing that was already taken is not shown so the data only represents data/listings that are available.  Hundreds of listings were still available to pull (numbers are smaller for locations with less listings available in general) that is able to still offer reasonable snapshot of what listings are offered at each location.
+Web-scraping vrbo.com for rental listings was another hurdle that took some time to gather data for each location.  This data consists of only data that was listed available on October 7, 2023 (pulled on April 23, 2023).  Any listing that was already taken is not shown so the data only represents data/listings that are available.  Hundreds of listings were still available to pull (numbers are smaller for locations with less listings available in general) that is able to still offer reasonable snapshot of what listings are offered at each location.
 
 ## Technologies Used
 1. Python / Pandas - for exploration, collection, cleansing, and aggregation of the datasets
@@ -57,3 +60,5 @@ To answer the questions above, I used the following sources to collect the datas
 5. Rental Property Listings were web-scraped through Vrbo website:
 - https://www.vrbo.com/
 
+## Conclusion
+The data showed that the Tybee Island was the safest place to travel in regard to the other six beach locations.  The Isle of Palms scored as the safest location when looking at crime rate, but scored as the second least safe location when looking at traffic fatality rates each year.  While Gulfport Beach and Panama City Beach each scored rated near the middle in traffic fatality rates, they both scored significantly worst in crime rates and were the two most unsafe locations overall.  The two beaches located on the east coast (Tybee Island and Isle of Palms) scored as the two safest locations.  While weather is unpredictable, my analyis shows that as the summer months progress, the weather takes a significant uptick in getting hotter after the month of May, while precipitation percentage also has a big uptick following the month of May.  Those looking for a vacation out east during fall break, will also show more overcast and cloudy skies compared to those traveling to the gulfside beaches.
