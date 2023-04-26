@@ -1,4 +1,5 @@
 # Beach Vacation
+Link: https://public.tableau.com/app/profile/brian.wilhelm/viz/beach_vacation_capstone/BeachStory?publish=yes
 
 ## Tableau Dashboard
 
