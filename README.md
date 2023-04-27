@@ -1,7 +1,7 @@
 # Beach Vacation
 
 ## Tableau Dashboard
-Link: https://public.tableau.com/app/profile/brian.wilhelm/viz/beach_vacation_capstone/BeachStory?publish=yes
+Link: https://public.tableau.com/app/profile/brian.wilhelm/viz/beaches_capstone/BeachStory?publish=yes
 
 ## Table of Contents
 - [Tableau Dashboard](#tableau-dashboard)
@@ -61,4 +61,4 @@ To answer the questions above, I used the following sources to collect the datas
 - https://www.vrbo.com/
 
 ## Conclusion
-The data showed that the Tybee Island was the safest place to travel in regard to the other six beach locations.  The Isle of Palms scored as the safest location when looking at crime rate, but scored as the second least safe location when looking at traffic fatality rates each year.  While Gulfport Beach and Panama City Beach each scored rated near the middle in traffic fatality rates, they both scored significantly worst in crime rates and were the two most unsafe locations overall.  The two beaches located on the east coast (Tybee Island and Isle of Palms) scored as the two safest locations.  While weather is unpredictable, my analyis shows that as the summer months progress, the weather takes a significant uptick in getting hotter after the month of May, while precipitation percentage also has a big uptick following the month of May.  Those looking for a vacation out east during fall break, will also show more overcast and cloudy skies compared to those traveling to the gulfside beaches.
+The data showed that the Tybee Island was the safest place to travel in regard to the other six beach locations.  The Isle of Palms scored as the safest location when looking at crime rate, but scored as the second least safe location when looking at traffic fatality rates each year.  While Gulfport Beach and Panama City Beach each scored rated near the middle in traffic fatality rates, they both scored significantly worst in crime rates and were the two most unsafe locations overall.  The two beaches located on the east coast (Tybee Island and Isle of Palms) scored as the two safest locations.  While weather is unpredictable, my analyis shows that as the summer months progress, the weather takes a significant uptick in getting hotter after the month of May, while precipitation percentage also has a big uptick following the month of May.  Those looking for a vacation out east during fall break will also show more overcast and cloudy skies compared to those traveling to the gulfside beaches.
